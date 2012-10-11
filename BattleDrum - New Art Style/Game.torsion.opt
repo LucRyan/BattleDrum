@@ -1,0 +1,15 @@
+<TorsionProjectOptions>
+<Address>127.0.0.1</Address>
+<Password>password</Password>
+<Port>6060</Port>
+<LastConfig>Release</LastConfig>
+<Breakpoints/>
+<Bookmarks/>
+<OpenFiles>
+<File ScrollX="0" ScrollY="150">game\gameScripts\knights.cs</File>
+<File ScrollX="0" ScrollY="319">game\gameScripts\control.cs</File>
+<File ScrollX="0" ScrollY="47">game\behaviors\game\takesDamageAdv.cs</File>
+<File ScrollX="0" ScrollY="25">game\gameScripts\game.cs</File>
+<File ScrollX="0" ScrollY="0" Active="true">game\gameScripts\directionBo.cs</File>
+</OpenFiles>
+</TorsionProjectOptions>

@@ -1,0 +1,998 @@
+//-------------------------- 12/10/2011 -- 06:49:55 -----
+Processor Init:
+   Intel Pentium II, ~2.70 Ghz
+     (timed at roughly 2.69 Ghz)
+   FPU detected
+   MMX detected
+   SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing FPU extensions
+   Installing MMX extensions
+   Installing SSE extensions
+ 
+Input Init:
+   DirectInput enabled.
+
+Initializing chunk mappings...
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/main.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/main.cs.
+ % - Initializing Common
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/preferences/defaultPrefs.cs.
+Reading Display Device information...
+   Primary Display Device Found:
+      Vendor Id: VEN_0000
+      Device Id: DEV_0000
+
+Using OpenGL rendering. Fullscreen: 0
+
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/xml.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/properties.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/common.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/audio.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/canvas.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/cursor.cs.
+Video Init:
+   Accelerated OpenGL display device detected.
+   Accelerated D3D device detected.
+   Voodoo 2 display device not detected.
+
+Activating the OpenGL display device...
+Activating the OpenGL display device...
+Setting screen mode to 800x600x32 (w)...
+Creating a new window...
+Acquiring a new device context...
+Pixel format set:
+  32 color bits, 24 depth bits, 8 stencil bits
+Creating a new rendering context...
+Making the new rendering context current...
+OpenGL driver information:
+  Vendor: ATI Technologies Inc.
+  Renderer: ATI Mobility Radeon HD 5650
+  Version: 2.1.9117
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 8)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16)
+  WGL_EXT_swap_control
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  NV_vertex_array_range
+  3DFX_texture_compression_FXT1
+
+Max Texture Size reported as: 16384
+OpenAL Driver Init:
+   Vendor: Creative Labs Inc.
+   Version: OpenAL 1.0
+   Renderer: Software
+   Extensions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/profiles.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/cursors.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBoxOk.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBoxYesNo.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBoxYesNoCancel.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBoxOKCancel.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBoxOKCancelDetailsDlg.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messagePopup.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/options.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/remap.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/console.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/NetworkMenu.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/startServer.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/joinServer.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/waitingForServer.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/helpDlg.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/messageBox.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/help.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gui/chatGui.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/screenshot.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/metrics.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/Gui/FrameOverlayGui.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/scriptDoc.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/keybindings.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/options.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/levelManagement.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/projectManagement.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/projectResources.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/common/gameScripts/align.cs.
+
+Torque Game Builder (v1.7.4) initialized...
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/managed/datablocks.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/managed/persistent.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/managed/brushes.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/datablocks.cs.
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/physics/rigidBody.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/thrusterControls.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/tankControls.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/shooterControls.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/PauseBehaviour.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDraggable.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownVelocity.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownScale.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownRotate.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownExplode.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownConstantForce.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/genericInputAction.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/followMouseEx.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/followMouse.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/fleeMouse.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/faceMouse.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/asteroidsControls.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/alignToJoystick.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/objectOverlay.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/mouseOverGrow.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/genericButton.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/worldLimitWrap.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/template.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/takesDamageAdv.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/takesDamage.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/shootsAdv.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/shoots.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreShowHighest.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreOnEvent.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreBoard.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/mouseDownDamage.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/dealsDamageAdv.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/dealsDamage.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/basementTakedamage.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/worldLimitParticles.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/swapImageOnCollision.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/selfDestruct.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/fadeMask.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/contrail.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/collisionParticles.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/cameraMove.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/timerShootsAdv.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/timerShoots.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnOnRemove.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnGroup.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnArea.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/randomVelocity.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveWave.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveToward.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveForward.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/mountToOnAdd.cs...
+Compiling C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/faceObject.cs...
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/physics/rigidBody.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/thrusterControls.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/tankControls.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/shooterControls.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/PauseBehaviour.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDraggable.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownVelocity.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownScale.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownRotate.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownExplode.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/mouseDownConstantForce.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/genericInputAction.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/followMouseEx.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/followMouse.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/fleeMouse.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/faceMouse.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/asteroidsControls.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/input/alignToJoystick.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/objectOverlay.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/mouseOverGrow.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/gui/genericButton.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/worldLimitWrap.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/template.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/takesDamageAdv.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/takesDamage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/shootsAdv.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/shoots.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreShowHighest.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreOnEvent.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/scoreBoard.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/mouseDownDamage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/dealsDamageAdv.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/dealsDamage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/game/basementTakedamage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/worldLimitParticles.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/swapImageOnCollision.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/selfDestruct.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/fadeMask.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/contrail.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/collisionParticles.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/effects/cameraMove.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/timerShootsAdv.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/timerShoots.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnOnRemove.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnGroup.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/spawnArea.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/randomVelocity.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveWave.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveToward.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/moveForward.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/mountToOnAdd.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/behaviors/ai/faceObject.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/guiProfiles.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gui/mainScreen.gui.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/game.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/clouds.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/archer.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/archer1.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/archer2.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/knights.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/knights1.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/shield.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/Infantry.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/Infantry1.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/health.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/shieldDefense.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/sun.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/pon.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/ta.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/pa.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/don.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/control.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/audioDatablocks.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/arrow.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/arrow1.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/bladeK.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/pause.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/resume.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/direction.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/directionButton.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/pauseImage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/startImage.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/playButton.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/directionButtonStart.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/EnemyKnight1.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/directionS.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/bladeI.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/gameover.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/restart.cs.
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/gameScripts/directionBo.cs.
+Activating DirectInput...
+DirectInput joystick failed to enable!
+Loading compiled script C:/Users/123/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - Original Edition/game/data/levels/battlefield.t2d.
+Error: cannot change namespace parent linkage of Knight from t2dAnimatedSprite to Knight.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight(1448) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight(1448) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer1(1450) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer1(1450) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+Error: cannot change namespace parent linkage of Shield from t2dAnimatedSprite to Shield.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Shield(1454) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Shield(1454) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Archer from t2dAnimatedSprite to Archer.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer(1456) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer(1456) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight1(1458) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight1(1458) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry1(1460) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry1(1460) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of Pa from t2dStaticSprite to Pa.
+Error: cannot change namespace parent linkage of Pon from t2dStaticSprite to Pon.
+Error: cannot change namespace parent linkage of Ta from t2dStaticSprite to Ta.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Infantry from t2dAnimatedSprite to Infantry.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry(1466) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry(1466) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+Error: cannot change namespace parent linkage of Resume from t2dStaticSprite to Resume.
+Error: cannot change namespace parent linkage of DirectionButton from t2dStaticSprite to DirectionButton.
+Error: cannot change namespace parent linkage of PauseImage from t2dStaticSprite to PauseImage.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer2(1492) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer2(1492) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnight(1494) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnight(1494) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry(1501) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry(1501) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry2(1521) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry2(1521) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1527' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcher(1530) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcher(1530) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherB(1541) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherB(1541) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1548' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnightB(1550) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnightB(1550) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1556' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry3(1558) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry3(1558) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1564' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherC(1566) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherC(1566) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1573' is already in a SceneGraph!.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+Error: cannot change namespace parent linkage of DirectionBo from t2dStaticSprite to DirectionBo.
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+Count:  1
+Time:  7575.31
+Count:  2
+Time:  7575.81
+Count:  3
+Time:  7576.44
+Count:  4
+Time:  7577.02
+Count:  1
+Time:  7578.12
+t2dSceneGraph::addToScene() - Object '1581' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1581) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1581) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1587' is already in a SceneGraph!.
+Count:  2
+Time:  7578.73
+Count:  3
+Time:  7579.32
+Count:  4
+Time:  7579.84
+Count:  1
+Time:  7580.82
+Count:  2
+Time:  7581.32
+Count:  3
+Time:  7581.8
+Count:  4
+Time:  7582.32
+Count:  1
+Time:  7583.49
+Count:  2
+Time:  7583.93
+Count:  3
+Time:  7584.39
+Count:  4
+Time:  7584.88
+Count:  1
+Time:  7586.03
+Count:  2
+Time:  7586.48
+Count:  3
+Time:  7586.92
+Count:  4
+Time:  7587.37
+t2dSceneGraph::addToScene() - Object '1589' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1589) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1589) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1595' is already in a SceneGraph!.
+Count:  1
+Time:  7589.15
+Count:  2
+Time:  7589.68
+Count:  3
+Time:  7590.35
+DirectInput deactivated.
+t2dSceneGraph::addToScene() - Object '1597' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1597) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1597) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1603' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1605' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1611' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1613' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1613) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1613) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1619' is already in a SceneGraph!.
+Activating DirectInput...
+t2dSceneGraph::addToScene() - Object '1621' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1621) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1621) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1627' is already in a SceneGraph!.
+Count:  4
+Time:  7626.48
+Count:  1
+Time:  7626.89
+Count:  2
+Time:  7627.33
+Count:  3
+Time:  7627.79
+Count:  4
+Time:  7629.31
+Count:  1
+Time:  7629.82
+Count:  2
+Time:  7630.31
+Count:  3
+Time:  7630.83
+t2dSceneGraph::addToScene() - Object '1629' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1629) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1629) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1635' is already in a SceneGraph!.
+Count:  4
+Time:  7632.47
+Count:  1
+Time:  7633.05
+Count:  2
+Time:  7633.67
+Count:  3
+Time:  7634.58
+Count:  4
+Time:  7635.19
+Count:  1
+Time:  7635.72
+Count:  2
+Time:  7636.28
+Count:  3
+Time:  7637.73
+Count:  4
+Time:  7638.25
+Count:  1
+Time:  7638.76
+Count:  2
+Time:  7639.34
+Count:  3
+Time:  7641.15
+t2dSceneGraph::addToScene() - Object '1637' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1637) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1637) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1643' is already in a SceneGraph!.
+Count:  1
+Time:  7641.69
+Count:  2
+Time:  7642.24
+Count:  3
+Time:  7642.79
+Count:  4
+Time:  7644.95
+Count:  1
+Time:  7645.44
+Count:  2
+Time:  7645.92
+Count:  3
+Time:  7646.42
+Count:  4
+Time:  7647.06
+Count:  1
+Time:  7647.33
+Count:  2
+Time:  7647.6
+Count:  3
+Time:  7647.92
+Count:  4
+Time:  7648.6
+Count:  1
+Time:  7648.87
+Count:  2
+Time:  7649.21
+Count:  3
+Time:  7649.57
+t2dSceneGraph::addToScene() - Object '1645' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1645) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1645) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1651' is already in a SceneGraph!.
+DirectInput deactivated.
+t2dSceneGraph::addToScene() - Object '1653' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1653) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1653) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1659' is already in a SceneGraph!.
+Activating DirectInput...
+Count:  4
+Time:  7665.03
+Count:  1
+Time:  7665.47
+Count:  2
+Time:  7666.92
+Count:  3
+Time:  7667.31
+Count:  4
+Time:  7667.75
+Count:  1
+Time:  7668.13
+Count:  2
+Time:  7669.69
+Count:  1
+Time:  7670.19
+Count:  2
+Time:  7670.73
+t2dSceneGraph::addToScene() - Object '1661' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1661) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1661) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1667' is already in a SceneGraph!.
+Count:  3
+Time:  7671.25
+Count:  4
+Time:  7672.1
+Count:  1
+Time:  7672.72
+Count:  2
+Time:  7673.21
+Count:  3
+Time:  7673.81
+Count:  4
+Time:  7674.97
+Count:  1
+Time:  7675.4
+Count:  2
+Time:  7675.9
+Count:  3
+Time:  7676.4
+DirectInput deactivated.
+t2dSceneGraph::addToScene() - Object '1669' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1669) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1669) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1675' is already in a SceneGraph!.
+Activating DirectInput...
+Count:  4
+Time:  7687.51
+Count:  1
+Time:  7688.04
+Count:  2
+Time:  7688.48
+Count:  3
+Time:  7688.93
+t2dSceneGraph::addToScene() - Object '1677' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1677) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1677) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1683' is already in a SceneGraph!.
+Count:  4
+Time:  7691.22
+Count:  1
+Time:  7691.64
+Count:  2
+Time:  7692.11
+Count:  3
+Time:  7692.5
+Count:  4
+Time:  7694.34
+Count:  1
+Time:  7694.78
+Count:  2
+Time:  7695.25
+Count:  3
+Time:  7695.69
+t2dSceneGraph::addToScene() - Object '1685' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1685) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1685) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1692' is already in a SceneGraph!.
+<input> (0): Unable to find object: '' attempting to call function 'KnightAttack'
+<input> (0): Unable to find object: '' attempting to call function 'KnightAttackStop'
+Count:  1
+Time:  7709.96
+Count:  2
+Time:  7710.47
+Count:  3
+Time:  7711.02
+Count:  4
+Time:  7711.46
+Count:  1
+Time:  7712.55
+Count:  2
+Time:  7712.98
+Count:  3
+Time:  7713.44
+t2dSceneGraph::addToScene() - Object '1694' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1694) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1694) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1700' is already in a SceneGraph!.
+Count:  4
+Time:  7713.88
+Count:  1
+Time:  7714.45
+Count:  2
+Time:  7714.97
+Count:  3
+Time:  7715.5
+Count:  4
+Time:  7715.95
+Count:  1
+Time:  7717.15
+t2dSceneGraph::addToScene() - Object '1702' is already in a SceneGraph!.
+Count:  2
+Time:  7717.65
+Count:  3
+Time:  7718.15
+Count:  4
+Time:  7718.66
+Count:  1
+Time:  7719.8
+Count:  2
+Time:  7720.35
+Count:  3
+Time:  7720.9
+Count:  4
+Time:  7721.39
+t2dSceneGraph::addToScene() - Object '1704' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1704) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1704) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1710' is already in a SceneGraph!.
+Count:  1
+Time:  7723.36
+Count:  2
+Time:  7723.73
+Count:  3
+Time:  7724.09
+Count:  4
+Time:  7724.47
+Count:  1
+Time:  7724.87
+Count:  2
+Time:  7725.28
+t2dSceneGraph::addToScene() - Object '1712' is already in a SceneGraph!.
+Count:  3
+Time:  7725.68
+Count:  4
+Time:  7726.03
+Count:  1
+Time:  7726.45
+Count:  2
+Time:  7726.87
+Count:  3
+Time:  7727.26
+Count:  4
+Time:  7727.63
+Count:  1
+Time:  7728.37
+t2dSceneGraph::addToScene() - Object '1714' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1714) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1714) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1721' is already in a SceneGraph!.
+Count:  2
+Time:  7728.9
+Count:  3
+Time:  7729.32
+Count:  4
+Time:  7729.77
+Count:  1
+Time:  7732.02
+Count:  2
+Time:  7732.5
+Count:  3
+Time:  7732.92
+Count:  4
+Time:  7733.39
+t2dSceneGraph::addToScene() - Object '1723' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1723) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1723) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1729' is already in a SceneGraph!.
+Count:  1
+Time:  7736.53
+Count:  2
+Time:  7736.99
+t2dSceneGraph::addToScene() - Object '1731' is already in a SceneGraph!.
+Count:  3
+Time:  7737.46
+Count:  4
+Time:  7737.94
+t2dSceneGraph::addToScene() - Object '1733' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1733) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1733) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1739' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1741' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1741) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1741) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1747' is already in a SceneGraph!.
+Count:  1
+Time:  7740.25
+Count:  2
+Time:  7740.71
+Count:  3
+Time:  7741.14
+Count:  4
+Time:  7741.61
+t2dSceneGraph::addToScene() - Object '1749' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1749) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1749) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1755' is already in a SceneGraph!.
+Count:  1
+Time:  7743.72
+Count:  2
+Time:  7744.12
+Count:  3
+Time:  7744.56
+Count:  4
+Time:  7745.03
+t2dSceneGraph::addToScene() - Object '1757' is already in a SceneGraph!.
+Count:  1
+Time:  7746.21
+Count:  2
+Time:  7746.63
+Count:  3
+Time:  7747.09
+Count:  4
+Time:  7747.56
+t2dSceneGraph::addToScene() - Object '1759' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1759) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1759) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1766' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1768' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1768) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1768) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1774' is already in a SceneGraph!.
+Count:  1
+Time:  7755.81
+Count:  2
+Time:  7756.28
+Count:  3
+Time:  7756.63
+Count:  4
+Time:  7757.02
+t2dSceneGraph::addToScene() - Object '1776' is already in a SceneGraph!.
+Count:  1
+Time:  7758.57
+Count:  2
+Time:  7758.93
+Count:  3
+Time:  7759.33
+Count:  4
+Time:  7759.74
+Count:  1
+Time:  7761.14
+t2dSceneGraph::addToScene() - Object '1778' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1778) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1778) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1784' is already in a SceneGraph!.
+Count:  2
+Time:  7761.78
+Count:  3
+Time:  7762.38
+Count:  4
+Time:  7762.95
+Count:  1
+Time:  7765.21
+Count:  2
+Time:  7765.84
+t2dSceneGraph::addToScene() - Object '1786' is already in a SceneGraph!.
+Count:  3
+Time:  7766.38
+Count:  4
+Time:  7766.9
+t2dSceneGraph::addToScene() - Object '1788' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1788) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1788) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1795' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1797' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1797) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1797) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1803' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1805' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1805) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1805) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1811' is already in a SceneGraph!.
+Count:  1
+Time:  7774.19
+Count:  2
+Time:  7774.73
+Count:  3
+Time:  7775.26
+Count:  4
+Time:  7775.85
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1813' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1815' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1817' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1819' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1821' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1823' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1825' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1827' is already in a SceneGraph!.
+3822: Unknown command.
+3832: Unknown command.
+3854: Unknown command.
+3864: Unknown command.
+Count:  1
+Time:  7777.41
+3841: Unknown command.
+3845: Unknown command.
+3849: Unknown command.
+Count:  2
+Time:  7777.98
+Count:  3
+Time:  7778.54
+Count:  4
+Time:  7779.11
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1829' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1831' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1833' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1835' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1837' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1839' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1841' is already in a SceneGraph!.
+3944: Unknown command.
+3954: Unknown command.
+3976: Unknown command.
+3986: Unknown command.
+t2dSceneGraph::addToScene() - Object '1843' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1843) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1843) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1849' is already in a SceneGraph!.
+3963: Unknown command.
+3967: Unknown command.
+3971: Unknown command.
+DirectInput deactivated.
+t2dSceneGraph::addToScene() - Object '1851' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1853' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1853) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1853) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1859' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1861' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1861) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1861) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1868' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1870' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1870) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1870) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1877' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1879' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1879) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1879) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1885' is already in a SceneGraph!.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionBo for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for PauseImage for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionButton for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Resume for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Ta for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pon for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pa for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Shield for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Knight for t2dAnimatedSprite.
+Shutting down the OpenGL display device...
+Making the GL rendering context not current...
+Deleting the GL rendering context...
+Releasing the device context...

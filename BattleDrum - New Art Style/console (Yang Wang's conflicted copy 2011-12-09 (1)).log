@@ -1,0 +1,1888 @@
+//-------------------------- 12/9/2011 -- 17:51:58 -----
+Processor Init:
+   Intel Pentium III, ~2.85 Ghz
+     (timed at roughly 2.83 Ghz)
+   FPU detected
+   MMX detected
+   SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing FPU extensions
+   Installing MMX extensions
+   Installing SSE extensions
+ 
+Input Init:
+   DirectInput enabled.
+
+Initializing chunk mappings...
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/main.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/main.cs.
+ % - Initializing Common
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/preferences/defaultPrefs.cs.
+Reading Display Device information...
+   Primary Display Device Found:
+      Vendor Id: VEN_0000
+      Device Id: DEV_0000
+
+Using OpenGL rendering. Fullscreen: 0
+
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/xml.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/properties.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/common.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/audio.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/canvas.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/cursor.cs.
+Video Init:
+   Accelerated OpenGL display device detected.
+   Accelerated D3D device detected.
+   Voodoo 2 display device not detected.
+
+Activating the OpenGL display device...
+Activating the OpenGL display device...
+Setting screen mode to 800x600x32 (w)...
+Creating a new window...
+Acquiring a new device context...
+Pixel format set:
+  32 color bits, 24 depth bits, 8 stencil bits
+Creating a new rendering context...
+Making the new rendering context current...
+OpenGL driver information:
+  Vendor: NVIDIA Corporation
+  Renderer: GeForce 9600M GT/PCI/SSE2
+  Version: 3.3.0
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 4)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  NV_vertex_array_range
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16)
+  WGL_EXT_swap_control
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  3DFX_texture_compression_FXT1
+
+Max Texture Size reported as: 8192
+Setting screen mode to 1280x768x32 (w)...
+OpenAL Driver Init:
+   Vendor: Creative Labs Inc.
+   Version: OpenAL 1.0
+   Renderer: Software
+   Extensions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/profiles.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/cursors.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBoxOk.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBoxYesNo.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBoxYesNoCancel.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBoxOKCancel.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBoxOKCancelDetailsDlg.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messagePopup.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/options.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/remap.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/console.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/NetworkMenu.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/startServer.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/joinServer.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/waitingForServer.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/helpDlg.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/messageBox.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/help.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gui/chatGui.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/screenshot.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/metrics.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/Gui/FrameOverlayGui.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/scriptDoc.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/keybindings.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/options.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/levelManagement.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/projectManagement.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/projectResources.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/common/gameScripts/align.cs.
+
+Torque Game Builder (v1.7.4) initialized...
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/managed/datablocks.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/managed/persistent.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/managed/brushes.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/datablocks.cs.
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/template.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/shoots.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs...
+Compiling C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs...
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/template.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/shoots.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/guiProfiles.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gui/mainScreen.gui.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/game.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/clouds.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/archer.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/archer1.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/archer2.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/knights.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/knights1.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/shield.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/Infantry.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/Infantry1.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/health.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/shieldDefense.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/sun.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/pon.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/ta.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/pa.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/don.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/control.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/audioDatablocks.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/arrow.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/arrow1.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/bladeK.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/pause.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/resume.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/direction.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/directionButton.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/pauseImage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/startImage.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/playButton.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/directionButtonStart.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/EnemyKnight1.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/directionS.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/bladeI.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/gameover.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/restart.cs.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/gameScripts/directionBo.cs.
+Activating DirectInput...
+DirectInput joystick failed to enable!
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/data/levels/battlefield.t2d.
+Error: cannot change namespace parent linkage of Knight from t2dAnimatedSprite to Knight.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight(1454) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight(1454) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer1(1456) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer1(1456) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+Error: cannot change namespace parent linkage of Shield from t2dAnimatedSprite to Shield.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Shield(1460) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Shield(1460) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Archer from t2dAnimatedSprite to Archer.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer(1462) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer(1462) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight1(1464) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight1(1464) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry1(1466) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry1(1466) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of Pa from t2dStaticSprite to Pa.
+Error: cannot change namespace parent linkage of Pon from t2dStaticSprite to Pon.
+Error: cannot change namespace parent linkage of Ta from t2dStaticSprite to Ta.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Infantry from t2dAnimatedSprite to Infantry.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry(1472) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry(1472) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+Error: cannot change namespace parent linkage of Resume from t2dStaticSprite to Resume.
+Error: cannot change namespace parent linkage of DirectionButton from t2dStaticSprite to DirectionButton.
+Error: cannot change namespace parent linkage of PauseImage from t2dStaticSprite to PauseImage.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+Error: cannot change namespace parent linkage of GameOver from t2dStaticSprite to GameOver.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer2(1492) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer2(1492) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnight(1494) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnight(1494) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry(1501) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry(1501) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry2(1520) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry2(1520) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1526' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcher(1529) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcher(1529) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherB(1540) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherB(1540) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1547' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnightB(1549) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnightB(1549) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1555' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry3(1557) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry3(1557) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1563' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherC(1565) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherC(1565) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1572' is already in a SceneGraph!.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+Error: cannot change namespace parent linkage of DirectionBo from t2dStaticSprite to DirectionBo.
+Error: cannot change namespace parent linkage of Basement from t2dStaticSprite to Basement.
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Activating DirectInput...
+Count:  1
+Time:  8835.55
+Count:  2
+Time:  8836.35
+Count:  3
+Time:  8837.14
+t2dSceneGraph::addToScene() - Object '1605' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1611' is already in a SceneGraph!.
+Count:  4
+Time:  8837.97
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1613' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1615' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1617' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1619' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1621' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1623' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1625' is already in a SceneGraph!.
+93: Unknown command.
+103: Unknown command.
+125: Unknown command.
+135: Unknown command.
+112: Unknown command.
+116: Unknown command.
+120: Unknown command.
+Count:  1
+Time:  8841.67
+Count:  2
+Time:  8842.54
+Count:  3
+Time:  8843.31
+Count:  4
+Time:  8844.05
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1627' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1629' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1631' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1633' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1635' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1637' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1639' is already in a SceneGraph!.
+265: Unknown command.
+275: Unknown command.
+297: Unknown command.
+307: Unknown command.
+284: Unknown command.
+288: Unknown command.
+292: Unknown command.
+t2dSceneGraph::addToScene() - Object '1641' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1641) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1641) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1647' is already in a SceneGraph!.
+Count:  1
+Time:  8847.83
+Count:  2
+Time:  8848.63
+Count:  3
+Time:  8849.42
+Count:  4
+Time:  8850.22
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1649' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1651' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1653' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1655' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1657' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1659' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1661' is already in a SceneGraph!.
+443: Unknown command.
+453: Unknown command.
+475: Unknown command.
+485: Unknown command.
+462: Unknown command.
+466: Unknown command.
+470: Unknown command.
+Count:  1
+Time:  8853.99
+Count:  2
+Time:  8854.82
+Count:  3
+Time:  8855.55
+Count:  4
+Time:  8856.36
+Count:  1
+Time:  8857.21
+Count:  2
+Time:  8857.99
+t2dSceneGraph::addToScene() - Object '1663' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1663) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1663) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1669' is already in a SceneGraph!.
+Count:  3
+Time:  8858.74
+Count:  4
+Time:  8859.47
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1671' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1673' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1675' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1677' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1679' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1681' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1683' is already in a SceneGraph!.
+622: Unknown command.
+632: Unknown command.
+654: Unknown command.
+664: Unknown command.
+641: Unknown command.
+645: Unknown command.
+649: Unknown command.
+Count:  1
+Time:  8861.75
+Count:  2
+Time:  8862.49
+Count:  3
+Time:  8863.31
+Count:  4
+Time:  8864.05
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1685' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1687' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1689' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1691' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1693' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1695' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1697' is already in a SceneGraph!.
+776: Unknown command.
+786: Unknown command.
+808: Unknown command.
+818: Unknown command.
+795: Unknown command.
+799: Unknown command.
+803: Unknown command.
+Count:  1
+Time:  8866.36
+Count:  2
+Time:  8867.14
+Count:  3
+Time:  8867.84
+t2dSceneGraph::addToScene() - Object '1699' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1699) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1699) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1705' is already in a SceneGraph!.
+Count:  4
+Time:  8868.59
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1707' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1709' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1711' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1713' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1715' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1717' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1719' is already in a SceneGraph!.
+921: Unknown command.
+931: Unknown command.
+953: Unknown command.
+963: Unknown command.
+940: Unknown command.
+944: Unknown command.
+948: Unknown command.
+Count:  1
+Time:  8872.49
+Count:  2
+Time:  8872.92
+Count:  3
+Time:  8873.37
+Count:  4
+Time:  8873.84
+Count:  1
+Time:  8875.72
+Count:  1
+Time:  8877.5
+Count:  2
+Time:  8877.97
+Count:  3
+Time:  8878.44
+Count:  4
+Time:  8878.92
+t2dSceneGraph::addToScene() - Object '1721' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1721) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1721) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1727' is already in a SceneGraph!.
+Count:  1
+Time:  8881.79
+Count:  2
+Time:  8882.59
+t2dSceneGraph::addToScene() - Object '1729' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1729) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1729) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1735' is already in a SceneGraph!.
+Count:  3
+Time:  8883.38
+Count:  4
+Time:  8884.16
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1737' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1739' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1741' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1743' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1745' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1747' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1749' is already in a SceneGraph!.
+1212: Unknown command.
+1222: Unknown command.
+1244: Unknown command.
+1254: Unknown command.
+1231: Unknown command.
+1235: Unknown command.
+1239: Unknown command.
+t2dSceneGraph::addToScene() - Object '1751' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1751) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1751) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1757' is already in a SceneGraph!.
+Count:  1
+Time:  8887.89
+Count:  2
+Time:  8888.66
+Count:  3
+Time:  8889.45
+Count:  4
+Time:  8890.23
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1759' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1761' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1763' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1765' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1767' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1769' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1771' is already in a SceneGraph!.
+1387: Unknown command.
+1397: Unknown command.
+1419: Unknown command.
+1429: Unknown command.
+1406: Unknown command.
+1410: Unknown command.
+1414: Unknown command.
+Count:  1
+Time:  8894.04
+Count:  2
+Time:  8894.77
+Count:  3
+Time:  8895.52
+Count:  4
+Time:  8896.32
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1773' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1775' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1777' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1779' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1781' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1783' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1785' is already in a SceneGraph!.
+1529: Unknown command.
+1539: Unknown command.
+1561: Unknown command.
+1571: Unknown command.
+1548: Unknown command.
+1552: Unknown command.
+1556: Unknown command.
+Count:  1
+Time:  8899.4
+t2dSceneGraph::addToScene() - Object '1787' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1787) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1787) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1793' is already in a SceneGraph!.
+Count:  2
+Time:  8900.18
+Count:  3
+Time:  8900.93
+Count:  4
+Time:  8901.68
+Count:  1
+Time:  8902.48
+Count:  1
+Time:  8904.44
+Count:  2
+Time:  8904.77
+Count:  1
+Time:  8906.47
+t2dSceneGraph::addToScene() - Object '1795' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1795) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1795) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1801' is already in a SceneGraph!.
+Count:  2
+Time:  8907.28
+Count:  3
+Time:  8908.01
+Count:  4
+Time:  8908.79
+Count:  1
+Time:  8909.65
+Count:  2
+Time:  8910.46
+Count:  3
+Time:  8911.25
+Count:  4
+Time:  8911.99
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1803' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1805' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1807' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1809' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1811' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1813' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1815' is already in a SceneGraph!.
+1898: Unknown command.
+1908: Unknown command.
+1930: Unknown command.
+1940: Unknown command.
+1917: Unknown command.
+1921: Unknown command.
+1925: Unknown command.
+Count:  1
+Time:  8927.59
+Count:  2
+Time:  8928.34
+Count:  3
+Time:  8929.15
+Count:  4
+Time:  8929.95
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1817' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1819' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1821' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1823' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1825' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1827' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1829' is already in a SceneGraph!.
+2039: Unknown command.
+2049: Unknown command.
+2071: Unknown command.
+2081: Unknown command.
+t2dSceneGraph::addToScene() - Object '1831' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1831) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1831) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1837' is already in a SceneGraph!.
+2058: Unknown command.
+2062: Unknown command.
+2066: Unknown command.
+Count:  1
+Time:  8935.25
+Count:  2
+Time:  8936
+Count:  3
+Time:  8936.8
+t2dSceneGraph::addToScene() - Object '1839' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1839) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1839) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1845' is already in a SceneGraph!.
+Count:  4
+Time:  8937.61
+Count:  1
+Time:  8939.86
+Count:  2
+Time:  8940.6
+Count:  3
+Time:  8941.42
+Count:  4
+Time:  8942.13
+Count:  1
+Time:  8944.55
+Count:  2
+Time:  8945.3
+Count:  3
+Time:  8946.08
+Count:  4
+Time:  8946.88
+Count:  1
+Time:  8950.63
+t2dSceneGraph::addToScene() - Object '1847' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1847) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1847) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1853' is already in a SceneGraph!.
+Count:  2
+Time:  8951.4
+Count:  3
+Time:  8952.18
+Count:  4
+Time:  8952.97
+Count:  1
+Time:  8956.8
+Count:  2
+Time:  8957.58
+t2dSceneGraph::addToScene() - Object '1855' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1855) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1855) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1861' is already in a SceneGraph!.
+Count:  3
+Time:  8958.34
+Count:  4
+Time:  8959.11
+Count:  1
+Time:  8959.96
+Count:  2
+Time:  8960.67
+Count:  3
+Time:  8961.4
+Count:  4
+Time:  8962.21
+t2dSceneGraph::addToScene() - Object '1863' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1863) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1863) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1870' is already in a SceneGraph!.
+Count:  1
+Time:  8963.02
+Count:  2
+Time:  8972.22
+Count:  1
+Time:  8973.04
+Count:  2
+Time:  8973.86
+Count:  3
+Time:  8974.63
+Count:  1
+Time:  8976.41
+Count:  2
+Time:  8977.23
+t2dSceneGraph::addToScene() - Object '1872' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1872) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1872) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1878' is already in a SceneGraph!.
+Count:  3
+Time:  8978
+Count:  4
+Time:  8978.78
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1880' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1883' is already in a SceneGraph!.
+Count:  1
+Time:  8979.62
+Count:  2
+Time:  8980.37
+Count:  3
+Time:  8981.13
+Count:  4
+Time:  8981.87
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1885' is already in a SceneGraph!.
+Count:  1
+Time:  8983.39
+Count:  2
+Time:  8984.17
+t2dSceneGraph::addToScene() - Object '1888' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1888) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1888) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1894' is already in a SceneGraph!.
+Count:  3
+Time:  8984.97
+Count:  4
+Time:  8985.75
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1896' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1898' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1900' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1902' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1904' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1906' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1908' is already in a SceneGraph!.
+Count:  1
+Time:  8986.61
+3161: Unknown command.
+3171: Unknown command.
+3193: Unknown command.
+3203: Unknown command.
+3180: Unknown command.
+3184: Unknown command.
+3188: Unknown command.
+Count:  2
+Time:  8988.2
+Count:  1
+Time:  8988.92
+Count:  1
+Time:  8990.18
+t2dSceneGraph::addToScene() - Object '1910' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1910) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1910) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1917' is already in a SceneGraph!.
+Count:  2
+Time:  8990.98
+Count:  3
+Time:  8991.77
+Count:  4
+Time:  8992.62
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1919' is already in a SceneGraph!.
+Count:  1
+Time:  8993.47
+Count:  2
+Time:  8994.27
+Count:  3
+Time:  8995.09
+Count:  4
+Time:  8995.91
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1922' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1924' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1926' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1928' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1930' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1932' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1934' is already in a SceneGraph!.
+Count:  1
+Time:  8996.86
+3339: Unknown command.
+3349: Unknown command.
+3371: Unknown command.
+3381: Unknown command.
+t2dSceneGraph::addToScene() - Object '1936' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1936) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1936) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1942' is already in a SceneGraph!.
+Count:  2
+Time:  8997.65
+3358: Unknown command.
+3362: Unknown command.
+3366: Unknown command.
+Count:  3
+Time:  8998.51
+t2dSceneGraph::addToScene() - Object '1944' is already in a SceneGraph!.
+Count:  4
+Time:  8999.37
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1946' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1949' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1949) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1949) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1955' is already in a SceneGraph!.
+Count:  1
+Time:  9000.24
+t2dSceneGraph::addToScene() - Object '1957' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1957) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1957) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1963' is already in a SceneGraph!.
+Count:  2
+Time:  9001.07
+Count:  3
+Time:  9001.82
+Count:  4
+Time:  9002.65
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1965' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1967' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1969' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1971' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1973' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1975' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1977' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1979' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1979) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1979) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1985' is already in a SceneGraph!.
+Count:  1
+Time:  9003.58
+3530: Unknown command.
+3540: Unknown command.
+3562: Unknown command.
+3572: Unknown command.
+Count:  2
+Time:  9004.44
+3549: Unknown command.
+3553: Unknown command.
+3557: Unknown command.
+Count:  3
+Time:  9005.25
+Count:  4
+Time:  9006.08
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1987' is already in a SceneGraph!.
+Count:  1
+Time:  9006.92
+Count:  2
+Time:  9007.73
+Count:  3
+Time:  9008.54
+Count:  4
+Time:  9009.34
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1990' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1993' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1993) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1993) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2000' is already in a SceneGraph!.
+Count:  1
+Time:  9010.35
+Count:  2
+Time:  9011.12
+Count:  3
+Time:  9011.88
+Count:  4
+Time:  9012.66
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2002' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2004' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2006' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2008' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2010' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2012' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2014' is already in a SceneGraph!.
+3758: Unknown command.
+3768: Unknown command.
+3790: Unknown command.
+3800: Unknown command.
+3777: Unknown command.
+3781: Unknown command.
+3785: Unknown command.
+Count:  1
+Time:  9015.34
+Count:  2
+Time:  9016.11
+Count:  3
+Time:  9016.86
+t2dSceneGraph::addToScene() - Object '2016' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2016) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2016) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2022' is already in a SceneGraph!.
+Count:  4
+Time:  9017.64
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2024' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2027' is already in a SceneGraph!.
+Count:  1
+Time:  9018.43
+Count:  2
+Time:  9019.21
+Count:  3
+Time:  9020.01
+Count:  4
+Time:  9020.8
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2029' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2031' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2033' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2035' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2037' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2039' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2041' is already in a SceneGraph!.
+4000: Unknown command.
+4010: Unknown command.
+4032: Unknown command.
+4042: Unknown command.
+4019: Unknown command.
+4023: Unknown command.
+4027: Unknown command.
+t2dSceneGraph::addToScene() - Object '2043' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2043) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2043) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2049' is already in a SceneGraph!.
+Count:  1
+Time:  9024.19
+Count:  2
+Time:  9025.03
+Count:  3
+Time:  9025.78
+t2dSceneGraph::addToScene() - Object '2051' is already in a SceneGraph!.
+Count:  4
+Time:  9026.54
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2053' is already in a SceneGraph!.
+Count:  1
+Time:  9027.34
+Count:  2
+Time:  9028.12
+Count:  3
+Time:  9028.88
+t2dSceneGraph::addToScene() - Object '2056' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2056) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2056) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2063' is already in a SceneGraph!.
+Count:  4
+Time:  9029.67
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2065' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2068' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2068) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2068) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2074' is already in a SceneGraph!.
+Count:  1
+Time:  9030.51
+Count:  2
+Time:  9031.29
+Count:  3
+Time:  9032.1
+Count:  4
+Time:  9032.89
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2076' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2078' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2080' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2082' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2084' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2086' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2088' is already in a SceneGraph!.
+4275: Unknown command.
+4285: Unknown command.
+4307: Unknown command.
+4317: Unknown command.
+4294: Unknown command.
+4298: Unknown command.
+4302: Unknown command.
+Count:  1
+Time:  9036.47
+Count:  2
+Time:  9037.26
+Count:  3
+Time:  9038.06
+t2dSceneGraph::addToScene() - Object '2090' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2092' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2092) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2092) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2098' is already in a SceneGraph!.
+Count:  4
+Time:  9038.84
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2100' is already in a SceneGraph!.
+Count:  1
+Time:  9039.62
+Count:  2
+Time:  9040.48
+Count:  3
+Time:  9041.27
+Count:  4
+Time:  9042.07
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2103' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2105' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2107' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2109' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2111' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2113' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2115' is already in a SceneGraph!.
+4470: Unknown command.
+4480: Unknown command.
+4502: Unknown command.
+4512: Unknown command.
+4489: Unknown command.
+4493: Unknown command.
+4497: Unknown command.
+t2dSceneGraph::addToScene() - Object '2117' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2117) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2117) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2123' is already in a SceneGraph!.
+Count:  1
+Time:  9044.95
+Count:  2
+Time:  9045.76
+Count:  3
+Time:  9046.54
+Count:  4
+Time:  9047.34
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2125' is already in a SceneGraph!.
+Count:  1
+Time:  9048.26
+Count:  2
+Time:  9049.06
+t2dSceneGraph::addToScene() - Object '2128' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2128) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2128) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2134' is already in a SceneGraph!.
+Count:  3
+Time:  9049.85
+t2dSceneGraph::addToScene() - Object '2136' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2136) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2136) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2143' is already in a SceneGraph!.
+Count:  4
+Time:  9050.65
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2145' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2147' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2149' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2151' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2153' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2155' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2157' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2159' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2159) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2159) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2166' is already in a SceneGraph!.
+4733: Unknown command.
+4743: Unknown command.
+4765: Unknown command.
+4775: Unknown command.
+4752: Unknown command.
+4756: Unknown command.
+4760: Unknown command.
+Count:  1
+Time:  9053.47
+Count:  2
+Time:  9054.27
+Count:  3
+Time:  9055
+Count:  4
+Time:  9055.78
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '2168' is already in a SceneGraph!.
+Count:  1
+Time:  9056.58
+Count:  2
+Time:  9057.39
+Count:  3
+Time:  9058.15
+t2dSceneGraph::addToScene() - Object '2171' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2171) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2171) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2177' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2179' is already in a SceneGraph!.
+Count:  4
+Time:  9058.95
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2181' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2183' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2185' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2187' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2189' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2191' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2193' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2195' is already in a SceneGraph!.
+4902: Unknown command.
+4912: Unknown command.
+4934: Unknown command.
+4944: Unknown command.
+4921: Unknown command.
+4925: Unknown command.
+4929: Unknown command.
+t2dSceneGraph::addToScene() - Object '2197' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2197) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2197) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2203' is already in a SceneGraph!.
+Count:  1
+Time:  9065.7
+Count:  2
+Time:  9066.47
+t2dSceneGraph::addToScene() - Object '2205' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2207' is already in a SceneGraph!.
+Count:  3
+Time:  9067.32
+Count:  4
+Time:  9068.07
+Count:  1
+Time:  9068.98
+t2dSceneGraph::addToScene() - Object '2209' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2209) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2209) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2215' is already in a SceneGraph!.
+Count:  2
+Time:  9069.79
+t2dSceneGraph::addToScene() - Object '2217' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2217) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2217) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2224' is already in a SceneGraph!.
+Count:  3
+Time:  9070.57
+Count:  4
+Time:  9071.35
+Count:  1
+Time:  9072.36
+Count:  2
+Time:  9073.08
+Count:  3
+Time:  9073.81
+Count:  4
+Time:  9074.59
+Count:  1
+Time:  9075.45
+Count:  2
+Time:  9076.18
+Count:  3
+Time:  9076.95
+Count:  4
+Time:  9077.74
+Count:  1
+Time:  9078.56
+t2dSceneGraph::addToScene() - Object '2226' is already in a SceneGraph!.
+Count:  2
+Time:  9079.29
+t2dSceneGraph::addToScene() - Object '2228' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2228) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2228) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2234' is already in a SceneGraph!.
+Count:  3
+Time:  9080.04
+Count:  4
+Time:  9080.82
+Count:  1
+Time:  9081.58
+Count:  2
+Time:  9082.35
+Count:  3
+Time:  9083.11
+Count:  4
+Time:  9083.84
+t2dSceneGraph::addToScene() - Object '2236' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2236) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2236) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2242' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2244' is already in a SceneGraph!.
+Count:  1
+Time:  9087.25
+Count:  2
+Time:  9088.01
+t2dSceneGraph::addToScene() - Object '2246' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2246) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2246) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2252' is already in a SceneGraph!.
+Count:  3
+Time:  9088.8
+Count:  4
+Time:  9089.6
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2254' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2256' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2258' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2260' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2262' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2264' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2266' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '2268' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2268) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2268) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2275' is already in a SceneGraph!.
+5680: Unknown command.
+5690: Unknown command.
+5712: Unknown command.
+5722: Unknown command.
+5699: Unknown command.
+5703: Unknown command.
+5707: Unknown command.
+t2dSceneGraph::addToScene() - Object '2277' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2277) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2277) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2284' is already in a SceneGraph!.
+Count:  1
+Time:  9093.41
+Count:  2
+Time:  9094.19
+Count:  3
+Time:  9094.94
+Count:  4
+Time:  9095.7
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Basement for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionBo for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for GameOver for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for PauseImage for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionButton for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Resume for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Ta for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pon for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pa for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Shield for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Knight for t2dAnimatedSprite.
+Loading compiled script C:/Users/Kin/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Project Source Code/BattleDrum - New Art Style/game/data/levels/battlefield.t2d.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Knight for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Knight from t2dAnimatedSprite to Knight.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight(2293) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight(2293) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer1(2295) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer1(2295) Archer1 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Shield for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Shield from t2dAnimatedSprite to Shield.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Shield(2299) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Shield(2299) Shield -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Archer from t2dAnimatedSprite to Archer.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer(2301) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer(2301) Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Knight1(2303) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Knight1(2303) Knight1 -> Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry1(2305) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry1(2305) Infantry1 -> Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pa for t2dStaticSprite.
+Error: cannot change namespace parent linkage of Pa from t2dStaticSprite to Pa.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pon for t2dStaticSprite.
+Error: cannot change namespace parent linkage of Pon from t2dStaticSprite to Pon.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Ta for t2dStaticSprite.
+Error: cannot change namespace parent linkage of Ta from t2dStaticSprite to Ta.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Error: cannot change namespace parent linkage of Infantry from t2dAnimatedSprite to Infantry.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Infantry(2311) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Infantry(2311) Infantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Resume for t2dStaticSprite.
+Error: cannot change namespace parent linkage of Resume from t2dStaticSprite to Resume.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionButton for t2dStaticSprite.
+Error: cannot change namespace parent linkage of DirectionButton from t2dStaticSprite to DirectionButton.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for PauseImage for t2dStaticSprite.
+Error: cannot change namespace parent linkage of PauseImage from t2dStaticSprite to PauseImage.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for GameOver for t2dStaticSprite.
+Error: cannot change namespace parent linkage of GameOver from t2dStaticSprite to GameOver.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object Archer2(2331) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object Archer2(2331) Archer2 -> Archer -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnight(2333) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnight(2333) EnemyKnight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry(2340) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry(2340) enemyinfantry -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry2(2359) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry2(2359) enemyinfantry2 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2365' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcher(2368) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcher(2368) enemyArcher -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherB(2379) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherB(2379) enemyArcherB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2386' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object EnemyKnightB(2388) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object EnemyKnightB(2388) EnemyKnightB -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2394' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyinfantry3(2396) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyinfantry3(2396) enemyinfantry3 -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2402' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object enemyArcherC(2404) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object enemyArcherC(2404) enemyArcherC -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2411' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionBo for t2dStaticSprite.
+Error: cannot change namespace parent linkage of DirectionBo from t2dStaticSprite to DirectionBo.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Basement for t2dStaticSprite.
+Error: cannot change namespace parent linkage of Basement from t2dStaticSprite to Basement.
+t2dSceneGraph::addToScene() - Object '2444' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2444) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2444) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2450' is already in a SceneGraph!.
+Count:  1
+Time:  9111.96
+Count:  2
+Time:  9112.74
+Count:  3
+Time:  9113.56
+Count:  4
+Time:  9114.39
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2452' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '2454' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '2456' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2458' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '2460' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2462' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '2464' is already in a SceneGraph!.
+6056: Unknown command.
+6066: Unknown command.
+6088: Unknown command.
+6098: Unknown command.
+6075: Unknown command.
+6079: Unknown command.
+6083: Unknown command.
+t2dSceneGraph::addToScene() - Object '2466' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (2466) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (2466) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '2472' is already in a SceneGraph!.
+DirectInput deactivated.
+Activating DirectInput...
+DirectInput deactivated.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Basement for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionBo for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for GameOver for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for PauseImage for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionButton for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Resume for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Infantry for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Ta for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pon for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Pa for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Archer for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Shield for t2dAnimatedSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for Knight for t2dAnimatedSprite.
+Shutting down the OpenGL display device...
+Making the GL rendering context not current...
+Deleting the GL rendering context...
+Releasing the device context...
