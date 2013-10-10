@@ -1,7 +1,7 @@
-//-------------------------- 12/11/2011 -- 19:06:20 -----
+//-------------------------- 10/15/2012 -- 20:42:48 -----
 Processor Init:
-   Intel Pentium III, ~2.13 Ghz
-     (timed at roughly 2.12 Ghz)
+   Intel Pentium III, ~2.20 Ghz
+     (timed at roughly 2.19 Ghz)
    FPU detected
    MMX detected
    SSE detected
@@ -34,10 +34,10 @@ Could not load this GL function: glTexParameteri
    o 'TEXT' maps to TextChunk
    o 'SCHK' maps to UnknownChunk
    o 'SCHK' maps to SimChunk
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/main.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/main.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/main.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/main.cs.
  % - Initializing Common
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/preferences/defaultPrefs.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/preferences/defaultPrefs.cs.
 Reading Display Device information...
    Primary Display Device Found:
       Vendor Id: VEN_0000
@@ -45,12 +45,12 @@ Reading Display Device information...
 
 Using OpenGL rendering. Fullscreen: 0
 
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/xml.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/properties.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/common.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/audio.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/canvas.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/cursor.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/xml.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/properties.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/common.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/audio.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/canvas.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/cursor.cs.
 Video Init:
    Accelerated OpenGL display device detected.
    Accelerated D3D device detected.
@@ -66,9 +66,9 @@ Pixel format set:
 Creating a new rendering context...
 Making the new rendering context current...
 OpenGL driver information:
-  Vendor: ATI Technologies Inc.
-  Renderer: ATI Mobility Radeon HD 4500/5100 Series
-  Version: 3.3.11161 Compatibility Profile Context
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics 3000
+  Version: 3.1.0 - Build 8.15.10.2696
 OpenGL Init: Enabled Extensions
   ARB_multitexture (Max Texture Units: 8)
   EXT_blend_color
@@ -79,13 +79,13 @@ OpenGL Init: Enabled Extensions
   EXT_fog_coord
   ARB_texture_compression
   EXT_texture_compression_s3tc
+  3DFX_texture_compression_FXT1
   (ARB|EXT)_texture_env_add
   EXT_texture_filter_anisotropic (Max anisotropy: 16)
-  WGL_EXT_swap_control
 OpenGL Init: Disabled Extensions
   EXT_paletted_texture
   NV_vertex_array_range
-  3DFX_texture_compression_FXT1
+  WGL_EXT_swap_control
 
 Max Texture Size reported as: 8192
 Setting screen mode to 1280x720x32 (w)...
@@ -95,186 +95,186 @@ OpenAL Driver Init:
    Renderer: Software
    Extensions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
 
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/profiles.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/cursors.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBoxOk.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBoxYesNo.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBoxYesNoCancel.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBoxOKCancel.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBoxOKCancelDetailsDlg.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messagePopup.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/options.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/remap.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/console.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/NetworkMenu.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/startServer.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/joinServer.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/waitingForServer.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/helpDlg.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/messageBox.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/help.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gui/chatGui.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/screenshot.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/metrics.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/Gui/FrameOverlayGui.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/scriptDoc.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/keybindings.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/options.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/levelManagement.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/projectManagement.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/projectResources.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/common/gameScripts/align.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/profiles.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/cursors.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBoxOk.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBoxYesNo.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBoxYesNoCancel.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBoxOKCancel.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBoxOKCancelDetailsDlg.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messagePopup.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/options.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/remap.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/console.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/NetworkMenu.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/startServer.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/joinServer.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/waitingForServer.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/helpDlg.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/messageBox.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/help.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gui/chatGui.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/screenshot.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/metrics.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/Gui/FrameOverlayGui.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/scriptDoc.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/keybindings.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/options.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/levelManagement.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/projectManagement.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/projectResources.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/common/gameScripts/align.cs.
 
 Torque Game Builder (v1.7.4) initialized...
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/managed/datablocks.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/managed/persistent.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/managed/brushes.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/datablocks.cs.
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/template.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/shoots.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs...
-Compiling C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs...
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/template.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/shoots.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/guiProfiles.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gui/mainScreen.gui.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/game.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/clouds.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/archer.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/archer1.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/archer2.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/knights.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/knights1.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/shield.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/Infantry.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/Infantry1.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/health.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/shieldDefense.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/sun.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/pon.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/ta.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/pa.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/don.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/control.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/audioDatablocks.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/arrow.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/arrow1.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/bladeK.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/pause.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/resume.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/direction.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/directionButton.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/pauseImage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/startImage.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/playButton.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/directionButtonStart.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/EnemyKnight1.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/directionS.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/bladeI.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/gameover.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/restart.cs.
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/gameScripts/directionBo.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/managed/datablocks.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/managed/persistent.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/managed/brushes.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/datablocks.cs.
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/template.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/shoots.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs...
+Compiling C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs...
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/physics/rigidBody.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/thrusterControls.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/tankControls.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/shooterControls.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/PauseBehaviour.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDraggable.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownVelocity.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownScale.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownRotate.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownExplode.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/mouseDownConstantForce.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/genericInputAction.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/followMouseEx.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/followMouse.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/fleeMouse.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/faceMouse.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/asteroidsControls.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/input/alignToJoystick.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/objectOverlay.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/mouseOverGrow.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/gui/genericButton.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/worldLimitWrap.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/template.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/takesDamageAdv.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/takesDamage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/shootsAdv.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/shoots.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreShowHighest.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreOnEvent.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/scoreBoard.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/mouseDownDamage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/dealsDamageAdv.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/dealsDamage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/game/basementTakedamage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/worldLimitParticles.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/swapImageOnCollision.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/selfDestruct.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/fadeMask.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/contrail.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/collisionParticles.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/effects/cameraMove.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/timerShootsAdv.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/timerShoots.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnOnRemove.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnGroup.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/spawnArea.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/randomVelocity.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveWave.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveToward.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/moveForward.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/mountToOnAdd.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/behaviors/ai/faceObject.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/guiProfiles.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gui/mainScreen.gui.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/game.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/clouds.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/archer.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/archer1.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/archer2.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/knights.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/knights1.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/shield.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/Infantry.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/Infantry1.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/health.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/shieldDefense.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/sun.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/pon.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/ta.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/pa.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/don.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/control.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/audioDatablocks.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/arrow.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/arrow1.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/bladeK.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/pause.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/resume.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/direction.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/directionButton.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/pauseImage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/startImage.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/playButton.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/directionButtonStart.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/EnemyKnight1.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/directionS.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/bladeI.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/gameover.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/restart.cs.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/gameScripts/directionBo.cs.
 Activating DirectInput...
 DirectInput joystick failed to enable!
-Loading compiled script C:/Users/xiexiaohua_2/Dropbox/Stevens/Fall 2011_Shared/Team Soybean - Yang, Xinlei, Tuo, Renyuan/Final Project/BattleDrum - New Art Style/game/data/levels/battlefield.t2d.
+Loading compiled script C:/Users/Luckin'/Documents/GitHub/BattleDrum/BattleDrum - New Art Style/game/data/levels/battlefield.t2d.
 Error: cannot change namespace parent linkage of Knight from t2dAnimatedSprite to Knight.
 game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
   Object Knight(1454) Knight -> t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
@@ -364,32 +364,206 @@ t2dSceneGraph::addToScene() - Object '1572' is already in a SceneGraph!.
 Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
 Error: cannot change namespace parent linkage of DirectionBo from t2dStaticSprite to DirectionBo.
 Error: cannot change namespace parent linkage of Basement from t2dStaticSprite to Basement.
-DirectInput deactivated.
-Activating DirectInput...
+Count:  1
+Time:  22551.6
+Count:  1
+Time:  22553.7
 t2dSceneGraph::addToScene() - Object '1605' is already in a SceneGraph!.
 game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
   Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
 game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
   Object (1605) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
 t2dSceneGraph::addToScene() - Object '1611' is already in a SceneGraph!.
+Count:  2
+Time:  22554.4
+Count:  3
+Time:  22555.1
+Count:  4
+Time:  22555.8
+Count:  1
+Time:  22557.2
+Count:  2
+Time:  22557.9
+Count:  3
+Time:  22558.6
+Count:  4
+Time:  22559.3
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
 t2dSceneGraph::addToScene() - Object '1613' is already in a SceneGraph!.
-game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
-  Object (1613) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
-game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
-  Object (1613) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1615' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1617' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
 t2dSceneGraph::addToScene() - Object '1619' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
 t2dSceneGraph::addToScene() - Object '1621' is already in a SceneGraph!.
-game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
-  Object (1621) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
-game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
-  Object (1621) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1623' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1625' is already in a SceneGraph!.
+199: Unknown command.
+209: Unknown command.
+231: Unknown command.
+241: Unknown command.
+218: Unknown command.
+222: Unknown command.
+226: Unknown command.
+Count:  1
+Time:  22562.2
+Count:  2
+Time:  22563
+Count:  3
+Time:  22563.6
 t2dSceneGraph::addToScene() - Object '1627' is already in a SceneGraph!.
-t2dSceneGraph::addToScene() - Object '1629' is already in a SceneGraph!.
 game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
-  Object (1629) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+  Object (1627) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
 game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
-  Object (1629) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+  Object (1627) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1633' is already in a SceneGraph!.
+Count:  4
+Time:  22564.3
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
 t2dSceneGraph::addToScene() - Object '1635' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1637' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1639' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1641' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1643' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1645' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1647' is already in a SceneGraph!.
+353: Unknown command.
+363: Unknown command.
+385: Unknown command.
+395: Unknown command.
+372: Unknown command.
+376: Unknown command.
+380: Unknown command.
+Count:  1
+Time:  22566.8
+Count:  2
+Time:  22567.5
+Count:  3
+Time:  22568.2
+Count:  4
+Time:  22568.9
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1649' is already in a SceneGraph!.
+Count:  1
+Time:  22570.1
+Count:  2
+Time:  22570.8
+Count:  3
+Time:  22571.5
+Count:  4
+Time:  22572
+Namespace::unlinkClass - cannot unlink namespace parent linkage for ShieldDefense for t2dStaticSprite.
+Error: cannot change namespace parent linkage of ShieldDefense from t2dStaticSprite to ShieldDefense.
+t2dSceneGraph::addToScene() - Object '1652' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1655' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1655) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1655) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1661' is already in a SceneGraph!.
+Count:  1
+Time:  22575.6
+Count:  2
+Time:  22576.4
+Count:  3
+Time:  22577.1
+Count:  4
+Time:  22577.8
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1663' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1665' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1667' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1669' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1671' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1673' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1675' is already in a SceneGraph!.
+611: Unknown command.
+621: Unknown command.
+643: Unknown command.
+653: Unknown command.
+630: Unknown command.
+634: Unknown command.
+638: Unknown command.
+Count:  1
+Time:  22581.2
+Count:  2
+Time:  22581.9
+Count:  3
+Time:  22582.6
+Count:  4
+Time:  22583.3
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1677' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeK for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeK from t2dStaticSprite to BladeK.
+t2dSceneGraph::addToScene() - Object '1679' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow from t2dStaticSprite to arrow.
+t2dSceneGraph::addToScene() - Object '1681' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1683' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for arrow1 for t2dStaticSprite.
+Error: cannot change namespace parent linkage of arrow1 from t2dStaticSprite to arrow1.
+t2dSceneGraph::addToScene() - Object '1685' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1687' is already in a SceneGraph!.
+Namespace::unlinkClass - cannot unlink namespace parent linkage for BladeI for t2dStaticSprite.
+Error: cannot change namespace parent linkage of BladeI from t2dStaticSprite to BladeI.
+t2dSceneGraph::addToScene() - Object '1689' is already in a SceneGraph!.
+774: Unknown command.
+784: Unknown command.
+806: Unknown command.
+816: Unknown command.
+t2dSceneGraph::addToScene() - Object '1691' is already in a SceneGraph!.
+game/behaviors/game/takesDamage.cs (26): Unknown command getFrame.
+  Object (1691) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+game/behaviors/game/takesDamage.cs (77): Unknown command setFrame.
+  Object (1691) t2dAnimatedSprite -> t2dSceneObject -> BehaviorComponent -> DynamicConsoleMethodComponent -> SimComponent -> SimObject
+t2dSceneGraph::addToScene() - Object '1697' is already in a SceneGraph!.
+793: Unknown command.
+797: Unknown command.
+801: Unknown command.
 DirectInput deactivated.
 Namespace::unlinkClass - cannot unlink namespace parent linkage for Basement for t2dStaticSprite.
 Namespace::unlinkClass - cannot unlink namespace parent linkage for DirectionBo for t2dStaticSprite.
